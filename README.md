@@ -8,7 +8,7 @@ The Drawing Tool provides a canvas where users can draw shapes, lines, and patte
 
 ## Live Demo
 
-Here is the live domo of project[https://sachinrajak03.github.io/Drawing-tool/]
+Here is the live domo of project [https://sachinrajak03.github.io/Drawing-tool/]
 
 
 
